@@ -2,7 +2,7 @@
 
 https://www.boostcourse.org/ai222/joinLectures/28027
 
-- Pythonic Code
+- 1) Pythonic Code
   - Overview
   - Split & Join
   - List Comprehension
@@ -11,7 +11,7 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - Asterisk
   - <참고> Data Structure-Collections
   
- - Linear Algebra(선형대수)
+- 2) Linear Algebra(선형대수)
   - 선형대수(Linear Algebra)
   - Linear algebra codes
   - Case Study-News Categorization-1
