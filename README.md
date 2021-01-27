@@ -11,7 +11,7 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - Asterisk
   - <참고> Data Structure-Collections
   
-- Linear Algebra(선형대수)
+- Linear Algebra
   - 선형대수(Linear Algebra)
   - Linear algebra codes
   - Case Study-News Categorization-1
@@ -23,7 +23,7 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - Pandas #2
   - Visualization - matplotlib
   - Data Cleansing
-  - Kaggle
+  - Kaggle(https://www.kaggle.com/)
   
 - Assignment  
   - Numpy Lab
