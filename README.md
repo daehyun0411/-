@@ -17,3 +17,18 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - Case Study-News Categorization-1
   - Case Study-News Categorization-2
   
+- Data Handling  
+  - Numerical Python - Numpy
+  - Pandas #1
+  - Pandas #2
+  - Visualization - matplotlib
+  - Data Cleansing
+  - Kaggle
+  
+- Assignment  
+  - Numpy Lab
+  - Lab Build Matrix
+  
+- Case Study
+  - Air Passengers
+  - Patent Data
