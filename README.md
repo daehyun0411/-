@@ -32,3 +32,22 @@ https://www.boostcourse.org/ai222/joinLectures/28027
 - Case Study
   - Air Passengers
   - Patent Data
+
+-Linear Regression  
+  - Overview  
+  - Cost Function  
+  - Normal equation
+  - Assignment-Normal equation  
+  - Gradient Descent  
+  - Linear Regression with GD & Implementation 1
+  - Linear Regression with GD & Implementation 2  
+  - Multivariate Linear Regression  
+  - Performance measure  
+  - Linear Regression w/sklearn  
+  - Stochastic Gradient Descent  
+  - SGD implementation issues  
+  - Overfitting and Regularization  
+  - L2 - Regularization/Ridge  
+  - Sklearn lr  
+  - Polynomial Regression  
+  - Performance measure techniques
