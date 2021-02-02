@@ -33,7 +33,7 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - Air Passengers
   - Patent Data
 
--Linear Regression  
+- Linear Regression  
   - Overview  
   - Cost Function  
   - Normal equation
