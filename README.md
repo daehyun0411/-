@@ -50,4 +50,13 @@ https://www.boostcourse.org/ai222/joinLectures/28027
   - L2 - Regularization/Ridge  
   - Sklearn lr  
   - Polynomial Regression  
-  - Performance measure techniques
+  - Performance measure techniques  
+  - Kaggle(https://www.kaggle.com/c/bike-sharing-demand)  
+  
+- Logistic Regression  
+  - Overview  
+  - Sigmoid function  
+  - Cost function  
+
+- Classification  
+  - Classification Service
